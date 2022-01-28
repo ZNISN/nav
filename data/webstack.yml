@@ -38,10 +38,10 @@
       logo: /logos/在线番剧/www.yinghuacd.com.ico
       url: http://www.yinghuacd.com/
       description:
-    - title: 樱花动漫
-      logo: /logos/在线番剧/www.yinghuacd.com.ico
-      url: http://www.yinghuacd.com/
-      description:
+    - title: YuC's AnimeList
+      logo: /logos/在线番剧/yuc.wiki.png
+      url: https://yuc.wiki/
+      description: 新番表
 
 - taxonomy: 番剧下载 (BT)
   icon: fa-download
