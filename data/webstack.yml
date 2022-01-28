@@ -197,7 +197,7 @@
     - title: 嗶咔漫畫
       logo: /logos/本子App/www.picacomic.com.png
       url: https://www.picacomic.com/
-      description: E 站注射器，将中文翻译注入到 E 站体内。
+      description:
     - title: NClientV2
       logo: /logos/github.com.svg
       url: https://github.com/Dar9586/NClientV2
@@ -250,6 +250,10 @@
       logo: /logos/ACG资源站/www.hacg.cat.ico
       url: https://acg.gy/
       description: 发布页
+    - title: 灵梦御所
+      logo: /logos/ACG资源站/blog.reimu.net.png
+      url: https://blog.reimu.net/
+      description: 上上下下左右左右BA
     - title: 南+ South Plus
       logo: /logos/ACG资源站/www.snow-plus.net.ico
       url: https://www.snow-plus.net/
