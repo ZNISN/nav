@@ -10,7 +10,11 @@
       logo: /logos/在线番剧/www.agemys.com.ico
       url: http://www.age.tv/
       description: 备用地址
-    - title: NC-Raws
+    - title: NEP.Anime | 动画仓库
+      logo: /logos/在线番剧/AnimeNep.png
+      url: https://t.me/AnimeNep
+      description: 电报频道
+    - title: NC-Raws | Channel
       logo: /logos/在线番剧/NC_Raws_Channel.png
       url: https://t.me/NC_Raws_Channel
       description: 电报频道
