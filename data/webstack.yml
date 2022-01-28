@@ -30,6 +30,10 @@
       logo: /logos/在线番剧/ddrk.me.png
       url: https://ddrk.me/category/anime/
       description:
+    - title: ZzzFun动漫视频网
+      logo: /logos/在线番剧/www.zzzfun.com.ico
+      url: http://www.zzzfun.com/
+      description:
     - title: LaughSeeJapan
       logo: /logos/在线番剧/laughseejapan.com.png
       url: https://laughseejapan.com/
@@ -42,6 +46,10 @@
       logo: /logos/在线番剧/www.yinghuacd.com.ico
       url: http://www.yinghuacd.com/
       description:
+    - title: 飞极速在线 (发布页)
+      logo:
+      url: http://feijisu.com/
+      description: 发布页
     - title: YuC's AnimeList
       logo: /logos/在线番剧/yuc.wiki.png
       url: https://yuc.wiki/
