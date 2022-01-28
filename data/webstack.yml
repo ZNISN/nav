@@ -1,0 +1,536 @@
+---
+- taxonomy: 在线番剧
+  icon: fa-film
+  links:
+    - title: AGE动漫
+      logo: /logos/在线番剧/www.agemys.com.ico
+      url: https://www.agemys.com/
+      description:
+    - title: AGE动漫 (备用)
+      logo: /logos/在线番剧/www.agemys.com.ico
+      url: http://www.age.tv/
+      description: 备用地址
+    - title: 哔咪哔咪
+      logo: /logos/在线番剧/www.bimiacg4.net.ico
+      url: https://www.bimiacg4.net/
+      description:
+    - title: 哔咪哔咪 (发布页)
+      logo: /logos/在线番剧/www.bimiacg4.net.ico
+      url: http://www.bimiacg.one
+      description: 发布页
+    - title: Anime1
+      logo: /logos/在线番剧/anime1.me.ico
+      url: https://anime1.me/
+      description:
+    - title: 低端影视
+      logo: /logos/在线番剧/ddrk.me.png
+      url: https://ddrk.me/category/anime/
+      description:
+    - title: LaughSeeJapan
+      logo: /logos/在线番剧/laughseejapan.com.png
+      url: https://laughseejapan.com/
+      description:
+    - title: 巴哈姆特動畫瘋
+      logo: /logos/在线番剧/ani.gamer.com.tw.ico
+      url: https://ani.gamer.com.tw/
+      description:
+    - title: 樱花动漫
+      logo: /logos/在线番剧/www.yinghuacd.com.ico
+      url: http://www.yinghuacd.com/
+      description:
+    - title: 樱花动漫
+      logo: /logos/在线番剧/www.yinghuacd.com.ico
+      url: http://www.yinghuacd.com/
+      description:
+
+- taxonomy: 番剧下载 (BT)
+  icon: fa-download
+  links:
+    - title: 動漫花園資源網
+      logo: /logos/番剧下载 (BT)/share.dmhy.org.ico
+      url: https://share.dmhy.org/
+      description:
+    - title: Nyaa (表)
+      logo: /logos/番剧下载 (BT)/nyaa.si.png
+      url: https://nyaa.si/
+      description:
+    - title: 爱恋动漫BT下载
+      logo: /logos/番剧下载 (BT)/kisssub.org.ico
+      url: http://kisssub.org/
+      description:
+    - title: 蜜柑计划
+      logo: /logos/番剧下载 (BT)/mikanani.me.ico
+      url: https://mikanani.me/
+      description:
+    - title: 末日動漫資源庫
+      logo: /logos/番剧下载 (BT)/share.acgnx.se.ico
+      url: https://share.acgnx.se/
+      description:
+    - title: MioBT
+      logo: /logos/番剧下载 (BT)/miobt.com.ico
+      url: https://miobt.com/
+      description:
+    - title: 萌番组
+      logo:
+      url: https://bangumi.moe/
+      description:
+    - title: ACG.RIP
+      logo: /logos/番剧下载 (BT)/acg.rip.ico
+      url: https://acg.rip/
+      description:
+    - title: 漫猫动漫BT下载
+      logo: /logos/番剧下载 (BT)/comicat.org.ico
+      url: https://comicat.org/
+      description:
+
+- taxonomy: 在线里番
+  icon: fa-film
+  links:
+    - title: Hanime1.me
+      logo: /logos/在线里番/hanime1.me.png
+      url: https://hanime1.me/
+      description:
+    - title: ISEKAI
+      logo: /logos/在线里番/isekai.im.ico
+      url: https://isekai.im/
+      description: 发布页 idanmu.pages.dev
+    - title: 里番在线
+      logo: /logos/在线里番/ecchi100.xyz.ico
+      url: https://ecchi100.xyz/
+      description: 发布页 ecchi.moe
+    - title: Hentaimama
+      logo: /logos/在线里番/hentaimama.io.ico
+      url: https://hentaimama.io/
+      description:
+    - title: animeid hentai
+      logo: /logos/在线里番/animeidhentai.com.png
+      url: https://animeidhentai.com/
+      description:
+    - title: Hentai-chan
+      logo: /logos/在线里番/hentai-chan.top.ico
+      url: https://hentai-chan.top/
+      description:
+    - title: online.hentai-share.tv
+      logo: /logos/在线里番/online.hentai-share.tv.ico
+      url: https://online.hentai-share.tv/
+      description:
+    - title: Iwara (里)
+      logo: /logos/在线里番/www.iwara.tv.ico
+      url: https://ecchi.iwara.tv/?language=zh-hans
+      description:
+    - title: Iwara (表)
+      logo: /logos/在线里番/www.iwara.tv.ico
+      url: https://www.iwara.tv/?language=zh-hans
+      description:
+    - title: 俺の3Dエロ动画
+      logo: /logos/在线里番/oreno3d.com.ico
+      url: https://oreno3d.com/
+      description:
+
+- taxonomy: 在线本子
+  icon: fa-picture-o
+  links:
+    - title: 紳士漫畫
+      logo: /logos/在线本子/www.wnacgs.com.ico
+      url: https://www.wnacgs.com/
+      description:
+    - title: 紳士漫畫 (发布页)
+      logo: /logos/在线本子/www.wnacgs.com.ico
+      url: https://www.wnacg.link/
+      description: 发布页
+    - title: 松鼠症倉庫
+      logo: /logos/在线本子/ahri8.top.ico
+      url: https://ahri8.top/
+      description:
+    - title: 松鼠症倉庫 (发布页)
+      logo: /logos/在线本子/ahri8.top.ico
+      url: https://aklist.cyou/
+      description: 发布页
+    - title: 禁漫天堂
+      logo: /logos/在线本子/18comic.vip.ico
+      url: https://18comic.vip/
+      description:
+    - title: 禁漫天堂 (发布页)
+      logo: /logos/在线本子/18comic.vip.ico
+      url: https://jmcomic.bet/
+      description: 发布页
+    - title: Nhentai
+      logo: /logos/在线本子/nhentai.net.ico
+      url: https://nhentai.net/
+      description:
+    - title: E-Hentai (表)
+      logo: /logos/在线本子/e-hentai.org.ico
+      url: https://e-hentai.org/
+      description: E绅士
+    - title: E-Hentai (里)
+      logo: /logos/在线本子/e-hentai.org.ico
+      url: https://exhentai.org/
+      description: E绅士
+    - title: Simply Hentai
+      logo: /logos/在线本子/simply-hentai.com.png
+      url: https://www.simply-hentai.com/
+      description:
+    - title: Hitomi.la
+      logo: /logos/在线本子/hitomi.la.png
+      url: https://hitomi.la/
+      description:
+
+- taxonomy: E绅士相关
+  icon: fa-puzzle-piece
+  links:
+    - title: EhSyringe
+      logo: /logos/E绅士相关/EhSyringe.svg
+      url: https://github.com/EhTagTranslation/EhSyringe
+      description: E 站注射器，将中文翻译注入到 E 站体内。
+    - title: eHunter
+      logo: /logos/github.com.svg
+      url: https://github.com/hanFengSan/eHunter
+      description: 提供卷轴式/书本式阅读
+    - title: EhViewer
+      logo: /logos/E绅士相关/EhViewer.png
+      url: https://gitlab.com/NekoInverter/EhViewer
+      description: 这是一个 E-Hentai Android 平台的浏览器。
+
+- taxonomy: 本子App
+  icon: fa-picture-o
+  links:
+    - title: 嗶咔漫畫
+      logo: /logos/本子App/www.picacomic.com.png
+      url: https://www.picacomic.com/
+      description: E 站注射器，将中文翻译注入到 E 站体内。
+    - title: NClientV2
+      logo: /logos/github.com.svg
+      url: https://github.com/Dar9586/NClientV2
+      description: An unofficial NHentai android client
+
+- taxonomy: 漫画App
+  icon: fa-picture-o
+  links:
+    - title: Tachiyomi
+      logo: /logos/漫画App/tachiyomi.png
+      url: https://github.com/inorichi/tachiyomi
+      description: Free and open source manga reader for Android.
+    - title: dmzj_flutter
+      logo: /logos/漫画App/dmzj_flutter.png
+      url: https://github.com/xiaoyaocz/dmzj_flutter
+      description: 动漫之家Flutter客户端
+    - title: 异次元
+      logo: /logos//漫画App/异次元.png
+      url: https://fairyflower.github.io/
+      description: 可自由添加图源的免费聚合漫画app
+
+- taxonomy: ACG音乐
+  icon: fa-music
+  links:
+    - title: ACG漫音社
+      logo: /logos/ACG音乐/www.acgjc.com.ico
+      url: http://www.acgjc.com/
+      description: 动漫无损音乐下载资讯站
+    - title: 天使动漫论坛
+      logo: /logos/ACG音乐/www.tsdm39.net.ico
+      url: https://www.tsdm39.net/forum.php
+      description:
+
+- taxonomy: 单机游戏
+  icon: fa-gamepad
+  links:
+    - title: IGGGAMES
+      logo: /logos/单机游戏/igg-games.com.ico
+      url: https://igg-games.com/
+      description: Free Download PC Games
+
+- taxonomy: ACG资源站
+  icon: fa-hdd-o
+  links:
+    - title: 琉璃神社
+      logo: /logos/ACG资源站/www.hacg.cat.ico
+      url: https://www.hacg.cat/wp/?lang=zh
+      description: magnet:?xt=urn:btih:神秘代码
+    - title: 琉璃神社 (发布页)
+      logo: /logos/ACG资源站/www.hacg.cat.ico
+      url: https://acg.gy/
+      description: 发布页
+    - title: 南+ South Plus
+      logo: /logos/ACG资源站/www.snow-plus.net.ico
+      url: https://www.snow-plus.net/
+      description:
+    - title: ZodGame论坛
+      logo: /logos/ACG资源站/zodgame.xyz.ico
+      url: https://zodgame.xyz/
+      description: 主要讨论3D黄油
+    - title: ZOD艾萝
+      logo: /logos/ACG资源站/zodgame.xyz.ico
+      url: https://www.weibo.com/zodgame
+      description: ZOD官微
+    - title: 随心论坛
+      logo: /logos/ACG资源站/note.2046acg.com.ico
+      url: https://note.2046acg.com/forum.php
+      description:
+    - title: 绅士仓库
+      logo: /logos/ACG资源站/cangku.icu.ico
+      url: https://cangku.icu/
+      description: 每逢法定节假日开放注册
+    - title: 绅士仓库 (发布页)
+      logo: /logos/ACG资源站/cangku.icu.ico
+      url: https://galacg.github.io/
+      description: 发布页
+    - title: 紳士の庭
+      logo: /logos/ACG资源站/gmgard.com.ico
+      url: https://gmgard.com/
+      description: 邀请注册
+    - title: 幻想次元
+      logo: /logos/ACG资源站/hxcy.moe.ico
+      url: https://hxcy.moe/
+      description: 邀请注册
+    - title: 幻想次元 (发布页)
+      logo: /logos/ACG资源站/hxcy.moe.ico
+      url: https://guaiguaizhanhao.com/
+      description: 发布页
+    - title: Otomi Games
+      logo: /logos/ACG资源站/otomi-games.com.png
+      url: https://otomi-games.com/
+      description:
+    - title: 扶她奶茶论坛
+      logo: /logos/ACG资源站/www.futanaicha.xyz.ico
+      url: https://www.futanaicha.xyz/
+      description:
+    - title: 萌幻之乡 (发布页)
+      logo: /logos/ACG资源站/hmoe.top.ico
+      url: https://hmoe.top/
+      description: 发布页
+    - title: 绅士会所
+      logo: /logos/ACG资源站/www.hentaiclub.net.ico
+      url: https://www.hentaiclub.net/
+      description:
+    - title: 绅士导航
+      logo: /logos/ACG资源站/www.gal123.com.png
+      url: https://www.gal123.com/
+      description: 导航页
+    - title: 星月号 (发布页)
+      logo: /logos/ACG资源站/xmoe.moe.ico
+      url: https://xmoe.moe/
+      description: 猎奇慎入
+
+- taxonomy: 同人音声
+  icon: fa-headphones
+  links:
+    - title: 同人音声の部屋
+      logo:
+      url: https://doonroom.blog.jp/
+      description: 音声评测
+    - title: ASMR Online
+      logo: /logos/同人音声/www.asmr.one.ico
+      url: https://www.asmr.one/
+      description:
+    - title: 雨中小町
+      logo: /logos/同人音声/rainkmc.com.ico
+      url: https://rainkmc.com/forum.php
+      description:
+    - title: HVDB
+      logo: /logos/同人音声/hvdb.me.ico
+      url: https://hvdb.me/
+      description: 邀请注册
+    - title: Ecchi na Koe
+      logo: /logos/同人音声/ecchikoe.me.png
+      url: https://ecchikoe.me/
+      description: 邀请注册
+    - title: Hentai ASMR
+      logo: /logos/同人音声/www.hentaiasmr.moe.png
+      url: https://www.hentaiasmr.moe/
+      description:
+    - title: EroVoice
+      logo: /logos/同人音声/dl.erovoice.us.ico
+      url: https://dl.erovoice.us/
+      description:
+    - title: 4chan.org/h/voice
+      logo: /logos/同人音声/boards.4chan.org.ico
+      url: https://boards.4chan.org/h/catalog#s=voice
+      description:
+    - title: DJT
+      logo: /logos/同人音声/itazuraneko.neocities.org.ico
+      url: https://itazuraneko.neocities.org/library/onsei/asmr.html
+      description:
+    - title: ASMR Land
+      logo: /logos/同人音声/asmrland.website.png
+      url: https://asmrland.website/
+      description:
+    - title: 77 Hentai Share
+      logo:
+      url: https://77hs.net/
+      description:
+    - title: VIVA HENTAI
+      logo: /logos/同人音声/www.vivahentai4u.net.ico
+      url: https://www.vivahentai4u.net/category/hentai-voice/
+      description:
+    - title: hentai4daily
+      logo: /logos/同人音声/hentai4daily.com.png
+      url: http://hentai4daily.com/
+      description:
+    - title: Mikocon
+      logo: /logos/同人音声/bbs.mikocon.com.ico
+      url: https://bbs.mikocon.com/forum.php
+      description:
+    - title: Anime-Sharing
+      logo: /logos/同人音声/www.anime-sharing.com.ico
+      url: http://www.anime-sharing.com/forum/
+      description:
+    - title: JASMR
+      logo: /logos/同人音声/www.jasmr.net.png
+      url: https://www.jasmr.net/
+      description:
+    - title: dlsite-doujin-renamer
+      logo: /logos/github.com.svg
+      url: https://github.com/yodhcn/dlsite-doujin-renamer
+      description: 同人音声重命名工具
+
+- taxonomy: Galgame
+  icon: fa-gamepad
+  links:
+    - title: MyGalgame
+      logo: /logos/Galgame/www.okloli.com.ico
+      url: https://www.okloli.com/
+      description: 忧郁的弟弟|忧郁的loli
+    - title: GGBases
+      logo: /logos/Galgame/www.ggbases.com.ico
+      url: https://www.ggbases.com/
+      description: BT磁力
+    - title: 天使二次元
+      logo: /logos/Galgame/www.tianshie.com.ico
+      url: https://www.tianshie.com/
+      description:
+    - title: galgame资源发布站
+      logo: /logos/Galgame/ercygame.com.jpg
+      url: https://ercygame.com/
+      description: 生肉
+    - title: GAL图书馆
+      logo: /logos/Galgame/galgame.pw.ico
+      url: https://galgame.pw/
+      description:
+    - title: 维咔VikACG
+      logo: /logos/Galgame/www.vikacg.com.png
+      url: https://www.vikacg.com/
+      description:
+    - title: 量子ACG
+      logo: /logos/Galgame/lzacg.us.jpeg
+      url: https://lzacg.us/
+      description:
+    - title: GalGame世界
+      logo:
+      url: https://acgngame.net/
+      description:
+    - title: 2DFan
+      logo: /logos/Galgame/www.2dfan.com.ico
+      url: https://www.2dfan.com/
+      description: Galgame资料站
+    - title: CnGal
+      logo: /logos/Galgame/www.cngal.org.ico
+      url: https://www.cngal.org/
+      description: Galgame资料站
+
+- taxonomy: Galgame相关
+  icon: fa-puzzle-piece
+  links:
+    - title: Kirikiroid2
+      logo: /logos/github.com.svg
+      url: https://github.com/zeas2/Kirikiroid2/releases
+      description: krkr模拟器
+    - title: Locale-Emulator
+      logo: /logos/github.com.svg
+      url: https://github.com/xupefei/Locale-Emulator/releases
+      description: 转区工具
+    - title: Joiplay
+      logo: /logos/Galgame相关/joiplay.cyou.ico
+      url: https://joiplay.cyou/
+      description: RPGMaker模拟器
+
+- taxonomy: 在线工具
+  icon: fa-search
+  links:
+    - title: Anime Scene Search Engine
+      logo: /logos/在线工具/trace.moe.png
+      url: https://trace.moe/
+      description: 用截图搜索番剧
+    - title: SauceNAO
+      logo: /logos/在线工具/saucenao.com.ico
+      url: https://saucenao.com/
+      description: 适合找p站图|本子识别
+    - title: 二次元画像詳細検索
+      logo: /logos/在线工具/ascii2d.net.ico
+      url: https://ascii2d.net/
+      description: 适合找gal图|同人图|p站图
+    - title: IQDB
+      logo: /logos/在线工具/www.iqdb.org.ico
+      url: https://www.iqdb.org/
+      description: 适合找gal图
+    - title: 数字极权时代生存手记
+      logo: /logos/github.com.svg
+      url: https://reconsidera.github.io/zh/
+      description:
+
+- taxonomy: 图书
+  icon: fa-book
+  links:
+    - title: Z-Library
+      logo: /logos/图书/z-lib.org.ico
+      url: https://zh.z-lib.org/
+      description: 世界上最大的数字图书馆
+    - title: Library Genesis
+      logo: /logos/图书/libgen.is.ico
+      url: https://libgen.is/
+      description:
+
+- taxonomy: BT下载软件
+  icon: fa-magnet
+  links:
+    - title: qBittorrent Enhanced Edition
+      logo: /logos/BT下载软件/www.qbittorrent.org.ico
+      url: https://github.com/c0re100/qBittorrent-Enhanced-Edition/releases
+      description:
+    - title: XIU2/TrackersListCollection
+      logo: /logos/BT下载软件/trackerslist.com.ico
+      url: https://trackerslist.com/#/zh
+      description: 全网热门 BitTorrent Tracker 列表
+    - title: animeTrackerList
+      logo: /logos/github.com.svg
+      url: https://github.com/DeSireFire/animeTrackerList
+      description: 动漫磁性链接加速方案
+
+- taxonomy: 种子搜索
+  icon: fa-magnet
+  links:
+    - title: Nyaa (里)
+      logo: /logos/番剧下载 (BT)/nyaa.si.png
+      url: https://sukebei.nyaa.si/
+      description:
+    - title: The Pirate Bay
+      logo: /logos/种子搜索/thepirate-bay.org.ico
+      url: https://thepirate-bay.org/en
+      description: 海盗湾
+    - title: RARBG
+      logo: /logos/种子搜索/rarbgprx.org.ico
+      url: https://rarbgprx.org/torrents.php
+      description:
+    - title: LimeTorrents
+      logo: /logos/种子搜索/ww2.limetorrents.cyou.ico
+      url: https://ww2.limetorrents.cyou/
+      description:
+    - title: 1377x
+      logo: /logos/种子搜索/www.1377x.to.ico
+      url: https://www.1377x.to/
+      description:
+    - title: Csze BT
+      logo: /logos/种子搜索/bt.orzx.im.ico
+      url: https://bt.orzx.im/
+      description:
+    - title: AniDex
+      logo: /logos/种子搜索/anidex.info.ico
+      url: https://anidex.info/
+      description:
+    - title: AniRena
+      logo: /logos/种子搜索/www.anirena.com.ico
+      url: https://www.anirena.com/
+      description:
+    - title: Tokyo Toshokan
+      logo: /logos/种子搜索/www.tokyotosho.info.png
+      url: https://www.tokyotosho.info/
+      description:

@@ -1,0 +1,15 @@
+baseURL = "http://example.org/"
+languageCode = "zh-CN"
+title = "电解熔融氧化铝导航"
+theme = "webstack-hugo-2.0rc2"
+preserveTaxonomyNames = true
+disablePathToLower = true
+hasCJKLanguage = true
+copyright = ""
+[params]
+  author = "iplaycode"
+  description = "Webstack Hugo"
+[params.search]
+  enable = false
+[params.darkmode]
+  enable = false
