@@ -10,6 +10,10 @@
       logo: /logos/在线番剧/www.agemys.com.ico
       url: http://www.age.tv/
       description: 备用地址
+    - title: NC-Raws
+      logo: /logos/在线番剧/NC_Raws_Channel.png
+      url: https://t.me/NC_Raws_Channel
+      description: 电报频道
     - title: 哔咪哔咪
       logo: /logos/在线番剧/www.bimiacg4.net.ico
       url: https://www.bimiacg4.net/
@@ -398,6 +402,10 @@
       logo: /logos/Galgame/www.ggbases.com.ico
       url: https://www.ggbases.com/
       description: BT磁力
+    - title: krkr/ons/ty/直装 安卓模拟器galgame 游戏大全
+      logo: /logos/Galgame/kirikiroid2.png
+      url: https://t.me/kirikiroid2
+      description: 电报频道
     - title: 天使二次元
       logo: /logos/Galgame/www.tianshie.com.ico
       url: https://www.tianshie.com/
