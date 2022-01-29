@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://nav-yodhcn.vercel.app/"
 languageCode = "zh-CN"
 title = "电解熔融氧化铝导航"
 theme = "webstack-hugo-2.0rc2"
