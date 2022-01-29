@@ -406,6 +406,10 @@
       logo: /logos/同人音声/www.jasmr.net.png
       url: https://www.jasmr.net/
       description:
+    - title: kikoeru
+      logo: /logos/github.com.svg
+      url: https://github.com/kikoeru-project/kikoeru-express
+      description: 一个同人音声专用的音乐流媒体服务器
     - title: dlsite-doujin-renamer
       logo: /logos/github.com.svg
       url: https://github.com/yodhcn/dlsite-doujin-renamer
