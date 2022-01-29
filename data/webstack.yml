@@ -420,8 +420,12 @@
       description: 忧郁的弟弟|忧郁的loli
     - title: GGBases
       logo: /logos/Galgame/www.ggbases.com.ico
-      url: https://www.ggbases.com/
+      url: https://www.dlgal.com/
       description: BT磁力
+    - title: GGBases (发布页)
+      logo: /logos/Galgame/www.ggbases.com.ico
+      url: https://gitlab.com/ggbases/address
+      description: 发布页
     - title: krkr/ons/ty/直装 安卓模拟器galgame 游戏大全
       logo: /logos/Galgame/kirikiroid2.png
       url: https://t.me/kirikiroid2
