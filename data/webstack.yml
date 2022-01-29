@@ -206,6 +206,10 @@
       logo: /logos/E绅士相关/EhViewer.png
       url: https://gitlab.com/NekoInverter/EhViewer
       description: 这是一个 E-Hentai Android 平台的浏览器。
+    - title: EhViewer
+      logo: /logos/E绅士相关/panda.chaika.moe.ico
+      url: https://panda.chaika.moe/
+      description: 归档E绅士因版权问题下架的本子
 
 - taxonomy: 本子App
   icon: fa-picture-o
@@ -358,6 +362,10 @@
       logo: /logos/同人音声/rainkmc.com.ico
       url: https://rainkmc.com/forum.php
       description:
+    - title: 布璃
+      logo: /logos/同人音声/bulidesu.com.png
+      url: https://bulidesu.com/
+      description: 站长推特 @xintn1
     - title: HVDB
       logo: /logos/同人音声/hvdb.me.ico
       url: https://hvdb.me/
@@ -470,6 +478,10 @@
       logo: /logos/Galgame/www.cngal.org.ico
       url: https://www.cngal.org/
       description: Galgame资料站
+    - title: 誠也の部屋
+      logo: /logos/Galgame/seiya-saiga.com.ico
+      url: https://seiya-saiga.com/
+      description: Galgame攻略
 
 - taxonomy: Galgame相关
   icon: fa-puzzle-piece
