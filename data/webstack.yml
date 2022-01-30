@@ -110,14 +110,22 @@
       logo: /logos/在线里番/hanime1.me.png
       url: https://hanime1.me/
       description:
-    - title: ISEKAI
-      logo: /logos/在线里番/isekai.im.ico
-      url: https://isekai.im/
-      description: 发布页 idanmu.pages.dev
     - title: 里番在线
       logo: /logos/在线里番/ecchi100.xyz.ico
       url: https://ecchi100.xyz/
-      description: 发布页 ecchi.moe
+      description:
+    - title: 里番在线 (发布页)
+      logo: /logos/在线里番/ecchi100.xyz.ico
+      url: https://ecchi.moe/
+      description: 发布页
+    - title: ISEKAI
+      logo: /logos/在线里番/isekai.im.ico
+      url: https://isekai.ch/
+      description: 发布页 idanmu.pages.dev
+    - title: ISEKAI (发布页)
+      logo: /logos/在线里番/isekai.im.ico
+      url: https://idanmu.pages.dev/
+      description: 发布页
     - title: Hentaimama
       logo: /logos/在线里番/hentaimama.io.ico
       url: https://hentaimama.io/
