@@ -38,6 +38,10 @@
       logo: /logos/在线番剧/www.zzzfun.com.ico
       url: http://www.zzzfun.com/
       description:
+    - title: 233动漫网
+      logo: /logos/在线番剧/www.dm233.cc.ico
+      url: https://www.dm233.cc/
+      description:
     - title: LaughSeeJapan
       logo: /logos/在线番剧/laughseejapan.com.png
       url: https://laughseejapan.com/
@@ -518,6 +522,10 @@
       logo: /logos/在线工具/www.iqdb.org.ico
       url: https://www.iqdb.org/
       description: 适合找gal图
+    - title: SteamDB
+      logo: /logos/在线工具/www.iqdb.org.svg
+      url: https://steamdb.info/
+      description: Steam史低价格查询
     - title: 数字极权时代生存手记
       logo: /logos/github.com.svg
       url: https://reconsidera.github.io/zh/
