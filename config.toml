@@ -5,10 +5,7 @@ theme = "webstack-hugo-2.0rc2"
 preserveTaxonomyNames = true
 disablePathToLower = true
 hasCJKLanguage = true
-copyright = ""
-[params]
-  author = "iplaycode"
-  description = "Webstack Hugo"
+copyright = "yodhcn"
 [params.search]
   enable = false
 [params.darkmode]
