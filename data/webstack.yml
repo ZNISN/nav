@@ -218,10 +218,6 @@
       logo: /logos/E绅士相关/EhSyringe.svg
       url: https://github.com/EhTagTranslation/EhSyringe
       description: E 站注射器，将中文翻译注入到 E 站体内。
-    - title: ComicReadScript
-      logo: /logos/github.com.svg
-      url: https://github.com/hymbz/ComicReadScript
-      description: 为漫画站增加双页阅读模式及优化使用体验
     - title: eHunter
       logo: /logos/github.com.svg
       url: https://github.com/hanFengSan/eHunter
