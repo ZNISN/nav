@@ -110,6 +110,10 @@
       logo: /logos/在线里番/hanime1.me.png
       url: https://hanime1.me/
       description:
+    - title: AVbebe
+      logo: /logos/在线里番/avbebe.com.ico
+      url: https://avbebe.com/
+      description:
     - title: 里番在线
       logo: /logos/在线里番/ecchi100.xyz.ico
       url: https://ecchi100.xyz/
@@ -121,7 +125,7 @@
     - title: ISEKAI
       logo: /logos/在线里番/isekai.im.ico
       url: https://isekai.ch/
-      description: 发布页 idanmu.pages.dev
+      description:
     - title: ISEKAI (发布页)
       logo: /logos/在线里番/isekai.im.ico
       url: https://idanmu.pages.dev/
