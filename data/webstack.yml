@@ -150,6 +150,10 @@
 - taxonomy: 在线本子
   icon: fa-picture-o
   links:
+    - title: Nhentai
+      logo: /logos/在线本子/nhentai.net.ico
+      url: https://nhentai.net/
+      description:
     - title: Nyahentai
       logo: /logos/在线本子/nyahentai.info.ico
       url: https://nyahentai.info/
@@ -178,10 +182,6 @@
       logo: /logos/在线本子/18comic.vip.ico
       url: https://jmcomic.bet/
       description: 发布页
-    - title: Nhentai
-      logo: /logos/在线本子/nhentai.net.ico
-      url: https://nhentai.net/
-      description:
     - title: E-Hentai (表)
       logo: /logos/在线本子/e-hentai.org.ico
       url: https://e-hentai.org/
