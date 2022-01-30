@@ -150,6 +150,10 @@
 - taxonomy: 在线本子
   icon: fa-picture-o
   links:
+    - title: Nyahentai
+      logo: /logos/在线本子/nyahentai.info.ico
+      url: https://nyahentai.info/
+      description:
     - title: 紳士漫畫
       logo: /logos/在线本子/www.wnacgs.com.ico
       url: https://www.wnacgs.com/
