@@ -229,7 +229,7 @@
     - title: EhViewer
       logo: /logos/E绅士相关/EhViewer.png
       url: https://gitlab.com/NekoInverter/EhViewer
-      description: 这是一个 E-Hentai Android 平台的浏览器。
+      description: E-Hentai 安卓客户端
     - title: EhViewer
       logo: /logos/E绅士相关/panda.chaika.moe.ico
       url: https://panda.chaika.moe/
@@ -245,7 +245,7 @@
     - title: NClientV2
       logo: /logos/github.com.svg
       url: https://github.com/Dar9586/NClientV2
-      description: An unofficial NHentai android client
+      description: NHentai 安卓客户端
 
 - taxonomy: 漫画
   icon: fa-picture-o
@@ -281,7 +281,7 @@
     - title: ACG漫音社
       logo: /logos/ACG音乐/www.acgjc.com.ico
       url: http://www.acgjc.com/
-      description: 动漫无损音乐下载资讯站
+      description: 动漫无损音乐下载
     - title: 天使动漫论坛
       logo: /logos/ACG音乐/www.tsdm39.net.ico
       url: https://www.tsdm39.net/forum.php
@@ -325,7 +325,7 @@
     - title: 绅士仓库
       logo: /logos/ACG资源站/cangku.icu.ico
       url: https://cangku.icu/
-      description: 每逢法定节假日开放注册
+      description: 法定节假日开放注册
     - title: 绅士仓库 (发布页)
       logo: /logos/ACG资源站/cangku.icu.ico
       url: https://galacg.github.io/
@@ -513,11 +513,11 @@
     - title: 2DFan
       logo: /logos/Galgame/www.2dfan.com.ico
       url: https://www.2dfan.com/
-      description: Galgame资料站
+      description: Galgame资料
     - title: CnGal
       logo: /logos/Galgame/www.cngal.org.ico
       url: https://www.cngal.org/
-      description: Galgame资料站
+      description: Galgame资料
     - title: 誠也の部屋
       logo: /logos/Galgame/seiya-saiga.com.ico
       url: https://seiya-saiga.com/
@@ -545,7 +545,7 @@
     - title: Anime Scene Search Engine
       logo: /logos/在线工具/trace.moe.png
       url: https://trace.moe/
-      description: 用截图搜索番剧
+      description: 截图搜索番剧
     - title: SauceNAO
       logo: /logos/在线工具/saucenao.com.ico
       url: https://saucenao.com/
