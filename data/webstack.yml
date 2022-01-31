@@ -102,6 +102,10 @@
       logo: /logos/番剧下载 (BT)/comicat.org.ico
       url: https://comicat.org/
       description:
+    - title: Anime Raw
+      logo: /logos/番剧下载 (BT)/animeraw.org.jpg
+      url: https://animeraw.org/
+      description: 每月1日开放注册
 
 - taxonomy: 在线里番
   icon: fa-film
