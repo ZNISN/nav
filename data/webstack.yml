@@ -274,6 +274,10 @@
 - taxonomy: ACG音乐
   icon: fa-music
   links:
+    - title: R/a/dio
+      logo: /logos/ACG音乐/r-a-d.io.ico
+      url: https://r-a-d.io/
+      description: ACG音乐电台
     - title: ACG漫音社
       logo: /logos/ACG音乐/www.acgjc.com.ico
       url: http://www.acgjc.com/
@@ -281,11 +285,7 @@
     - title: 天使动漫论坛
       logo: /logos/ACG音乐/www.tsdm39.net.ico
       url: https://www.tsdm39.net/forum.php
-      description: 主要分享无损ACG音乐
-    - title: R/a/dio
-      logo: /logos/ACG音乐/r-a-d.io.ico
-      url: https://r-a-d.io/
-      description: ACG音乐电台
+      description:
 
 - taxonomy: 单机游戏
   icon: fa-gamepad
