@@ -10,13 +10,13 @@
       logo: /logos/在线番剧/www.agemys.com.ico
       url: http://www.age.tv/
       description: 备用地址
-    - title: NEP.Anime | 动画仓库
-      logo: /logos/在线番剧/AnimeNep.png
-      url: https://t.me/AnimeNep
-      description: 电报频道
     - title: NC-Raws | Channel
       logo: /logos/在线番剧/NC_Raws_Channel.png
       url: https://t.me/NC_Raws_Channel
+      description: 电报频道
+    - title: NEP.Anime | 动画仓库
+      logo: /logos/在线番剧/AnimeNep.png
+      url: https://t.me/AnimeNep
       description: 电报频道
     - title: 哔咪哔咪
       logo: /logos/在线番剧/www.bimiacg4.net.ico
@@ -314,18 +314,14 @@
       logo: /logos/ACG资源站/www.snow-plus.net.ico
       url: https://www.snow-plus.net/
       description:
-    - title: ZodGame论坛
-      logo: /logos/ACG资源站/zodgame.xyz.ico
-      url: https://zodgame.xyz/
-      description: 主要讨论3D黄油
-    - title: ZOD艾萝
-      logo: /logos/ACG资源站/zodgame.xyz.ico
-      url: https://www.weibo.com/zodgame
-      description: ZOD官微
-    - title: 随心论坛
-      logo: /logos/ACG资源站/note.2046acg.com.ico
-      url: https://note.2046acg.com/forum.php
+    - title: Otomi Games
+      logo: /logos/ACG资源站/otomi-games.com.png
+      url: https://otomi-games.com/
       description:
+    - title: 紳士の庭
+      logo: /logos/ACG资源站/gmgard.com.ico
+      url: https://gmgard.com/
+      description: 邀请注册
     - title: 绅士仓库
       logo: /logos/ACG资源站/cangku.icu.ico
       url: https://cangku.icu/
@@ -334,10 +330,6 @@
       logo: /logos/ACG资源站/cangku.icu.ico
       url: https://galacg.github.io/
       description: 发布页
-    - title: 紳士の庭
-      logo: /logos/ACG资源站/gmgard.com.ico
-      url: https://gmgard.com/
-      description: 邀请注册
     - title: 幻想次元
       logo: /logos/ACG资源站/hxcy.moe.ico
       url: https://hxcy.moe/
@@ -346,14 +338,14 @@
       logo: /logos/ACG资源站/hxcy.moe.ico
       url: https://guaiguaizhanhao.com/
       description: 发布页
-    - title: Otomi Games
-      logo: /logos/ACG资源站/otomi-games.com.png
-      url: https://otomi-games.com/
-      description:
-    - title: 扶她奶茶论坛
-      logo: /logos/ACG资源站/www.futanaicha.xyz.ico
-      url: https://www.futanaicha.xyz/
-      description:
+    - title: ZodGame论坛
+      logo: /logos/ACG资源站/zodgame.xyz.ico
+      url: https://zodgame.xyz/
+      description: 主要讨论3D黄油
+    - title: ZOD艾萝
+      logo: /logos/ACG资源站/zodgame.xyz.ico
+      url: https://www.weibo.com/zodgame
+      description: ZOD官微
     - title: 萌幻之乡 (发布页)
       logo: /logos/ACG资源站/hmoe.top.ico
       url: https://hmoe.top/
@@ -361,6 +353,14 @@
     - title: SS同盟
       logo: /logos/ACG资源站/sstm.moe.png
       url: https://sstm.moe/
+      description:
+    - title: 扶她奶茶论坛
+      logo: /logos/ACG资源站/www.futanaicha.xyz.ico
+      url: https://www.futanaicha.xyz/
+      description:
+    - title: 随心论坛
+      logo: /logos/ACG资源站/note.2046acg.com.ico
+      url: https://note.2046acg.com/forum.php
       description:
     - title: 绅士会所
       logo: /logos/ACG资源站/www.hentaiclub.net.ico
