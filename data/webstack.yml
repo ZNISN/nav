@@ -243,21 +243,29 @@
       url: https://github.com/Dar9586/NClientV2
       description: An unofficial NHentai android client
 
-- taxonomy: 漫画App
+- taxonomy: 漫画
   icon: fa-picture-o
   links:
+    - title: XMANHUA
+      logo: /logos/漫画/xmanhua.com.ico
+      url: https://xmanhua.com/
+      description: 在线漫画
     - title: Tachiyomi
-      logo: /logos/漫画App/tachiyomi.png
+      logo: /logos/漫画/tachiyomi.png
       url: https://github.com/inorichi/tachiyomi
       description: Free and open source manga reader for Android.
     - title: dmzj_flutter
-      logo: /logos/漫画App/dmzj_flutter.png
+      logo: /logos/漫画/dmzj_flutter.png
       url: https://github.com/xiaoyaocz/dmzj_flutter
       description: 动漫之家Flutter客户端
     - title: 异次元
-      logo: /logos//漫画App/异次元.png
+      logo: /logos//漫画/异次元.png
       url: https://fairyflower.github.io/
       description: 可自由添加图源的免费聚合漫画app
+    - title: Mox.moe
+      logo: /logos/漫画/vol.moe.png
+      url: https://vol.moe/
+      description: Kindle 漫画
 
 - taxonomy: ACG音乐
   icon: fa-music
