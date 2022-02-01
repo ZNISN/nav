@@ -234,7 +234,7 @@
       logo: /logos/E绅士相关/EhViewer.png
       url: https://gitlab.com/NekoInverter/EhViewer
       description: E-Hentai 安卓客户端
-    - title: EhViewer
+    - title: Panda Backup
       logo: /logos/E绅士相关/panda.chaika.moe.ico
       url: https://panda.chaika.moe/
       description: 归档E绅士因版权问题下架的本子
@@ -477,7 +477,7 @@
     - title: MyGalgame
       logo: /logos/Galgame/www.okloli.com.ico
       url: https://www.okloli.com/
-      description: 忧郁的弟弟|忧郁的loli
+      description: 忧郁的弟弟/忧郁的loli
     - title: GGBases
       logo: /logos/Galgame/www.ggbases.com.ico
       url: https://www.dlgal.com/
@@ -557,11 +557,11 @@
     - title: SauceNAO
       logo: /logos/在线工具/saucenao.com.ico
       url: https://saucenao.com/
-      description: 适合找p站图|本子识别
+      description: 适合找p站图/本子识别
     - title: 二次元画像詳細検索
       logo: /logos/在线工具/ascii2d.net.ico
       url: https://ascii2d.net/
-      description: 适合找gal图|同人图|p站图
+      description: 适合找gal图/同人图/p站图
     - title: IQDB
       logo: /logos/在线工具/www.iqdb.org.ico
       url: https://www.iqdb.org/
