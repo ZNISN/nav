@@ -418,6 +418,10 @@
       logo: /logos/同人音声/hentai-share.com.png
       url: https://hentai-share.com/category/hentai-voice-音声/
       description: 推荐 MexaShare 网盘
+    - title: Anime-Sharing
+      logo: /logos/同人音声/www.anime-sharing.com.ico
+      url: http://www.anime-sharing.com/forum/voice-works-129/
+      description:
     - title: Hentai ASMR
       logo: /logos/同人音声/www.hentaiasmr.moe.png
       url: https://www.hentaiasmr.moe/
@@ -457,10 +461,6 @@
     - title: Mikocon
       logo: /logos/同人音声/bbs.mikocon.com.ico
       url: https://bbs.mikocon.com/forum.php
-      description:
-    - title: Anime-Sharing
-      logo: /logos/同人音声/www.anime-sharing.com.ico
-      url: http://www.anime-sharing.com/forum/
       description:
     - title: JASMR
       logo: /logos/同人音声/www.jasmr.net.png
