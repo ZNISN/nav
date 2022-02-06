@@ -10,14 +10,14 @@
       logo: /logos/在线番剧/www.agemys.com.ico
       url: http://www.age.tv/
       description: 备用地址
-    - title: NC-Raws | Channel
-      logo: /logos/在线番剧/NC_Raws_Channel.png
-      url: https://t.me/NC_Raws_Channel
-      description: 电报频道
-    - title: NEP.Anime | 动画仓库
-      logo: /logos/在线番剧/AnimeNep.png
-      url: https://t.me/AnimeNep
-      description: 电报频道
+    - title: Anime1
+      logo: /logos/在线番剧/anime1.me.ico
+      url: https://anime1.me/
+      description:
+    - title: 森之屋动漫
+      logo: /logos/在线番剧/www.senfun.net.png
+      url: https://www.senfun.net/
+      description:
     - title: 哔咪哔咪
       logo: /logos/在线番剧/www.bimiacg4.net.ico
       url: https://www.bimiacg4.net/
@@ -26,10 +26,14 @@
       logo: /logos/在线番剧/www.bimiacg4.net.ico
       url: http://www.bimiacg.one
       description: 发布页
-    - title: Anime1
-      logo: /logos/在线番剧/anime1.me.ico
-      url: https://anime1.me/
-      description:
+    - title: NC-Raws | Channel
+      logo: /logos/在线番剧/NC_Raws_Channel.png
+      url: https://t.me/NC_Raws_Channel
+      description: 电报频道
+    - title: NEP.Anime | 动画仓库
+      logo: /logos/在线番剧/AnimeNep.png
+      url: https://t.me/AnimeNep
+      description: 电报频道
     - title: 低端影视
       logo: /logos/在线番剧/ddrk.me.png
       url: https://ddrk.me/category/anime/
