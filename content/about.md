@@ -12,6 +12,6 @@ draft: false
 
 ### 关于站长
 
-[🔗Telegram](https://t.me/yodhcn)\
-[🔗Github](https://github.com/yodhcn)\
+[🔗 Telegram](https://t.me/yodhcn)\
+[🔗 Github](https://github.com/yodhcn)\
 [🔗 南+](https://www.snow-plus.net/u.php?action-show-uid-903655.html)
