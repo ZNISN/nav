@@ -326,6 +326,10 @@
 - taxonomy: ACG资源站
   icon: fa-hdd-o
   links:
+    - title: DLsite
+      logo: /logos/ACG资源站/www.dlsite.com.ico
+      url: https://www.dlsite.com/maniax/?locale=zh_CN
+      description: 正版同人作品购买
     - title: 琉璃神社
       logo: /logos/ACG资源站/www.hacg.cat.ico
       url: https://www.hacg.cat/wp/?lang=zh
