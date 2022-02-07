@@ -14,9 +14,9 @@
       logo: /logos/在线番剧/anime1.me.ico
       url: https://anime1.me/
       description:
-    - title: 森之屋动漫
-      logo: /logos/在线番剧/www.senfun.net.png
-      url: https://www.senfun.net/
+    - title: OmoFun动漫
+      logo: /logos/在线番剧/omofun.tv.png
+      url: https://omofun.tv/
       description:
     - title: 哔咪哔咪
       logo: /logos/在线番剧/www.bimiacg4.net.ico
@@ -26,25 +26,25 @@
       logo: /logos/在线番剧/www.bimiacg4.net.ico
       url: http://www.bimiacg.one
       description: 发布页
-    - title: NC-Raws | Channel
-      logo: /logos/在线番剧/NC_Raws_Channel.png
-      url: https://t.me/NC_Raws_Channel
-      description: 电报频道
-    - title: NEP.Anime | 动画仓库
-      logo: /logos/在线番剧/AnimeNep.png
-      url: https://t.me/AnimeNep
-      description: 电报频道
-    - title: 双辞动漫
-      logo: /logos/在线番剧/www.scdmfun.cn.png
-      url: https://www.scdmfun.cn/
-      description:
     - title: 低端影视
       logo: /logos/在线番剧/ddrk.me.png
       url: https://ddrk.me/category/anime/
       description:
+    - title: 森之屋动漫
+      logo: /logos/在线番剧/www.senfun.net.png
+      url: https://www.senfun.net/
+      description:
+    - title: 双辞动漫
+      logo: /logos/在线番剧/www.scdmfun.cn.png
+      url: https://www.scdmfun.cn/
+      description:
     - title: ZzzFun动漫视频网
       logo: /logos/在线番剧/www.zzzfun.com.ico
       url: http://www.zzzfun.com/
+      description:
+    - title: 星星动漫
+      logo: /logos/在线番剧/www.xxdm.net.ico
+      url: https://www.xxdm.net/
       description:
     - title: 233动漫网
       logo: /logos/在线番剧/www.dm233.cc.ico
@@ -58,6 +58,10 @@
       logo: /logos/在线番剧/ani.gamer.com.tw.ico
       url: https://ani.gamer.com.tw/
       description:
+    - title: 卡卡动漫
+      logo: /logos/在线番剧/www.kakadm.cc.ico
+      url: https://www.kakadm.cc/
+      description:
     - title: 樱花动漫
       logo: /logos/在线番剧/www.yinghuacd.com.ico
       url: http://www.yinghuacd.com/
@@ -66,6 +70,14 @@
       logo:
       url: http://feijisu.com/
       description: 发布页
+    - title: NC-Raws | Channel
+      logo: /logos/在线番剧/NC_Raws_Channel.png
+      url: https://t.me/NC_Raws_Channel
+      description: 电报频道
+    - title: NEP.Anime | 动画仓库
+      logo: /logos/在线番剧/AnimeNep.png
+      url: https://t.me/AnimeNep
+      description: 电报频道
     - title: YuC's AnimeList
       logo: /logos/在线番剧/yuc.wiki.png
       url: https://yuc.wiki/
