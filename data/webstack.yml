@@ -302,10 +302,14 @@
       logo: /logos/ACG音乐/r-a-d.io.ico
       url: https://r-a-d.io/
       description: ACG音乐电台
+    - title: Hikarinoakari
+      logo: /logos/ACG音乐/hikarinoakari.com.jpg
+      url: https://hikarinoakari.com/
+      description: ACG高音质音乐下载
     - title: ACG漫音社
       logo: /logos/ACG音乐/www.acgjc.com.ico
       url: http://www.acgjc.com/
-      description: 动漫无损音乐下载
+      description: ACG高音质音乐下载
     - title: 天使动漫论坛
       logo: /logos/ACG音乐/www.tsdm39.net.ico
       url: https://www.tsdm39.net/forum.php
