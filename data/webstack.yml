@@ -34,6 +34,10 @@
       logo: /logos/在线番剧/AnimeNep.png
       url: https://t.me/AnimeNep
       description: 电报频道
+    - title: 双辞动漫
+      logo: /logos/在线番剧/www.scdmfun.cn.png
+      url: https://www.scdmfun.cn/
+      description:
     - title: 低端影视
       logo: /logos/在线番剧/ddrk.me.png
       url: https://ddrk.me/category/anime/
@@ -374,18 +378,6 @@
       logo: /logos/ACG资源站/www.hentaiclub.net.ico
       url: https://www.hentaiclub.net/
       description:
-    - title: 绅士导航
-      logo: /logos/ACG资源站/www.gal123.com.png
-      url: https://www.gal123.com/
-      description: 导航页
-    - title: ACG盒子
-      logo: /logos/ACG资源站/www.acgbox.link.png
-      url: https://www.acgbox.link/
-      description: 导航页
-    - title: Porn Dude
-      logo: /logos/ACG资源站/theporndude.com.png
-      url: https://theporndude.com/zh
-      description: 导航页
     - title: 星月号 (发布页)
       logo: /logos/ACG资源站/xmoe.moe.ico
       url: https://xmoe.moe/
@@ -578,6 +570,10 @@
       logo: /logos/在线工具/www.iqdb.org.ico
       url: https://www.iqdb.org/
       description: 适合找gal图
+    - title: Xslist
+      logo: /logos/在线工具/xslist.org.ico
+      url: https://xslist.org/zh
+      description: 截图搜索女优
     - title: SteamDB
       logo: /logos/在线工具/www.iqdb.org.svg
       url: https://steamdb.info/
@@ -681,18 +677,22 @@
     - title: XVIDEOS
       logo: /logos/三次元/在线AV/www.xvideos.com.png
       url: https://www.xvideos.com/
-      description:
+      description: X站
+    - title: Avgle
+      logo: /logos/三次元/在线AV/avgle.com.ico
+      url: https://avgle.com/
+      description: A站
     - title: Pornhub
       logo: /logos/三次元/在线AV/pornhub.com.ico
       url: https://cn.pornhub.com/
-      description:
-    - title: FUQ
-      logo: /logos/三次元/在线AV/www.fuq.com.ico
-      url: https://www.fuq.com/zh/
-      description:
+      description: P站
     - title: 91PORN
       logo: /logos/三次元/在线AV/91porn.com.ico
       url: https://91porn.com/index.php
+      description: 91
+    - title: FUQ
+      logo: /logos/三次元/在线AV/www.fuq.com.ico
+      url: https://www.fuq.com/zh/
       description:
     - title: CableAV
       logo: /logos/三次元/在线AV/cableav.tv.svg
@@ -706,11 +706,43 @@
       logo: /logos/三次元/AV下载 (BT)/www.javbus.com.ico
       url: https://www.javbus.com/
       description:
+    - title: JAVHOO
+      logo: /logos/三次元/AV下载 (BT)/www.javhoo.com.ico
+      url: https://www.javhoo.com/
+      description:
     - title: JavDB
       logo: /logos/三次元/AV下载 (BT)/javdb.com.png
       url: https://javdb.com/
       description:
+    - title: JAVTXT
+      logo: /logos/三次元/AV下载 (BT)/javtxt.com.ico
+      url: https://javtxt.com/
+      description: JAV档案馆
     - title: Free Jav BT
       logo: /logos/三次元/AV下载 (BT)/freejavbt.com.png
       url: https://freejavbt.com/zh
+      description:
+
+- taxonomy: 导航页
+  icon: fa-location-arrow
+  links:
+    - title: 绅士导航
+      logo: /logos/导航页/www.gal123.com.png
+      url: https://www.gal123.com/
+      description: 二次元
+    - title: ACG盒子
+      logo: /logos/导航页/www.acgbox.link.png
+      url: https://www.acgbox.link/
+      description: 二次元
+    - title: 蓝色导航 (发布页)
+      logo:
+      url: https://dizhi.droppages.com/
+      description: 发布页
+    - title: Porn Dude
+      logo: /logos/导航页/theporndude.com.png
+      url: https://theporndude.com/zh
+      description:
+    - title: Porn Map
+      logo: /logos/导航页/thepornmap.com.png
+      url: https://thepornmap.com/zh-CN/
       description:
