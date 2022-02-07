@@ -346,6 +346,10 @@
       logo: /logos/ACG资源站/otomi-games.com.png
       url: https://otomi-games.com/
       description:
+    - title: HentaiBanchi
+      logo: /logos/ACG资源站/hentaibanchi.com.png
+      url: https://hentaibanchi.com/
+      description:
     - title: 紳士の庭
       logo: /logos/ACG资源站/gmgard.com.ico
       url: https://gmgard.com/
@@ -369,7 +373,7 @@
     - title: ZodGame论坛
       logo: /logos/ACG资源站/zodgame.xyz.ico
       url: https://zodgame.xyz/
-      description: 主要讨论3D黄油
+      description: 3D黄油
     - title: ZOD艾萝
       logo: /logos/ACG资源站/zodgame.xyz.ico
       url: https://www.weibo.com/zodgame
