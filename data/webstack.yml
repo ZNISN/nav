@@ -3,11 +3,11 @@
   icon: fa-film
   links:
     - title: AGE动漫
-      logo: /logos/在线番剧/www.agemys.com.ico
+      logo: /logos/在线番剧/www.agemys.com.png
       url: https://www.agemys.com/
       description:
     - title: AGE动漫 (备用)
-      logo: /logos/在线番剧/www.agemys.com.ico
+      logo: /logos/在线番剧/www.agemys.com.png
       url: http://www.age.tv/
       description: 备用地址
     - title: Anime1
@@ -615,11 +615,11 @@
   icon: fa-book
   links:
     - title: Z-Library
-      logo: /logos/图书/z-lib.org.ico
+      logo: /logos/图书/z-lib.org.png
       url: https://zh.z-lib.org/
       description: 世界上最大的数字图书馆
     - title: Library Genesis
-      logo: /logos/图书/libgen.is.png
+      logo: /logos/图书/libgen.is.ico
       url: https://libgen.is/
       description:
 
