@@ -339,7 +339,7 @@
       url: https://acg.gy/
       description: 发布页
     - title: 灵梦御所
-      logo: /logos/ACG资源站/blog.reimu.net.png
+      logo: https://cdn.jsdelivr.net/gh/yodhcn/nav@main/images/logos/ACG资源站/blog.reimu.net.png
       url: https://blog.reimu.net/
       description: 上上下下左右左右BA
     - title: Otomi Games
