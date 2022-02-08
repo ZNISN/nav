@@ -11,7 +11,7 @@
       url: http://www.age.tv/
       description: 备用地址
     - title: Anime1
-      logo: /logos/在线番剧/anime1.me.ico
+      logo: /logos/在线番剧/anime1.me.png
       url: https://anime1.me/
       description:
     - title: OmoFun动漫
@@ -39,7 +39,7 @@
       url: https://www.scdmfun.cn/
       description:
     - title: ZzzFun动漫视频网
-      logo: /logos/在线番剧/www.zzzfun.com.ico
+      logo: /logos/在线番剧/www.zzzfun.com.png
       url: http://www.zzzfun.com/
       description:
     - title: 星星动漫
@@ -47,7 +47,7 @@
       url: https://www.xxdm.net/
       description:
     - title: 233动漫网
-      logo: /logos/在线番剧/www.dm233.cc.ico
+      logo: /logos/在线番剧/www.dm233.cc.jpg
       url: https://www.dm233.cc/
       description:
     - title: LaughSeeJapan
@@ -55,7 +55,7 @@
       url: https://laughseejapan.com/
       description:
     - title: 巴哈姆特動畫瘋
-      logo: /logos/在线番剧/ani.gamer.com.tw.ico
+      logo: /logos/在线番剧/ani.gamer.com.tw.png
       url: https://ani.gamer.com.tw/
       description:
     - title: 卡卡动漫
@@ -87,7 +87,7 @@
   icon: fa-download
   links:
     - title: 動漫花園資源網
-      logo: /logos/番剧下载 (BT)/share.dmhy.org.ico
+      logo: /logos/番剧下载 (BT)/share.dmhy.org.png
       url: https://share.dmhy.org/
       description:
     - title: Nyaa (表)
@@ -95,7 +95,7 @@
       url: https://nyaa.si/
       description:
     - title: 爱恋动漫BT下载
-      logo: /logos/番剧下载 (BT)/kisssub.org.ico
+      logo: /logos/番剧下载 (BT)/kisssub.org.png
       url: http://kisssub.org/
       description:
     - title: 蜜柑计划
@@ -103,11 +103,11 @@
       url: https://mikanani.me/
       description:
     - title: 末日動漫資源庫
-      logo: /logos/番剧下载 (BT)/share.acgnx.se.ico
+      logo: /logos/番剧下载 (BT)/share.acgnx.se.png
       url: https://share.acgnx.se/
       description:
     - title: MioBT
-      logo: /logos/番剧下载 (BT)/miobt.com.ico
+      logo: /logos/番剧下载 (BT)/miobt.com.png
       url: https://miobt.com/
       description:
     - title: 萌番组
@@ -115,7 +115,7 @@
       url: https://bangumi.moe/
       description:
     - title: ACG.RIP
-      logo: /logos/番剧下载 (BT)/acg.rip.ico
+      logo: /logos/番剧下载 (BT)/acg.rip.png
       url: https://acg.rip/
       description:
     - title: 漫猫动漫BT下载
@@ -159,7 +159,7 @@
       url: https://idanmu.pages.dev/
       description: 发布页
     - title: Hentaimama
-      logo: /logos/在线里番/hentaimama.io.ico
+      logo: /logos/在线里番/hentaimama.io.png
       url: https://hentaimama.io/
       description:
     - title: animeid hentai
@@ -175,15 +175,15 @@
       url: https://online.hentai-share.tv/
       description:
     - title: Iwara (里)
-      logo: /logos/在线里番/www.iwara.tv.ico
+      logo: /logos/在线里番/www.iwara.tv.png
       url: https://ecchi.iwara.tv/?language=zh-hans
       description: MMD
     - title: Iwara (表)
-      logo: /logos/在线里番/www.iwara.tv.ico
+      logo: /logos/在线里番/www.iwara.tv.png
       url: https://www.iwara.tv/?language=zh-hans
       description: MMD
     - title: 俺の3Dエロ动画
-      logo: /logos/在线里番/oreno3d.com.ico
+      logo: /logos/在线里番/oreno3d.com.png
       url: https://oreno3d.com/
       description: 更方便地检索Iwara上的视频
 
@@ -191,11 +191,11 @@
   icon: fa-picture-o
   links:
     - title: Nhentai
-      logo: /logos/在线本子/nhentai.net.ico
+      logo: /logos/在线本子/nhentai.net.png
       url: https://nhentai.net/
       description:
     - title: Nyahentai
-      logo: /logos/在线本子/nyahentai.info.ico
+      logo: /logos/在线本子/nyahentai.info.png
       url: https://nyahentai.info/
       description:
     - title: 紳士漫畫
@@ -255,7 +255,7 @@
       url: https://gitlab.com/NekoInverter/EhViewer
       description: E-Hentai 安卓客户端
     - title: Panda Backup
-      logo: /logos/E绅士相关/panda.chaika.moe.ico
+      logo: /logos/E绅士相关/panda.chaika.moe.png
       url: https://panda.chaika.moe/
       description: 归档E绅士因版权问题下架的本子
 
@@ -319,7 +319,7 @@
   icon: fa-gamepad
   links:
     - title: IGGGAMES
-      logo: /logos/单机游戏/igg-games.com.ico
+      logo: /logos/单机游戏/igg-games.com.png
       url: https://igg-games.com/
       description: Free Download PC Games
 
@@ -327,15 +327,15 @@
   icon: fa-hdd-o
   links:
     - title: DLsite
-      logo: /logos/ACG资源站/www.dlsite.com.ico
+      logo: /logos/ACG资源站/www.dlsite.com.png
       url: https://www.dlsite.com/maniax/?locale=zh_CN
       description: 正版同人作品购买
     - title: 琉璃神社
-      logo: /logos/ACG资源站/www.hacg.cat.ico
+      logo: /logos/ACG资源站/www.hacg.cat.png
       url: https://www.hacg.cat/wp/?lang=zh
       description: magnet:?xt=urn:btih:神秘代码
     - title: 琉璃神社 (发布页)
-      logo: /logos/ACG资源站/www.hacg.cat.ico
+      logo: /logos/ACG资源站/www.hacg.cat.png
       url: https://acg.gy/
       description: 发布页
     - title: 灵梦御所
@@ -355,7 +355,7 @@
       url: https://www.snow-plus.net/
       description:
     - title: 紳士の庭
-      logo: /logos/ACG资源站/gmgard.com.ico
+      logo: /logos/ACG资源站/gmgard.com.png
       url: https://gmgard.com/
       description: 邀请注册
     - title: 绅士仓库
@@ -423,7 +423,7 @@
       url: http://www.eyny.com/forum-4086-1.html
       description: 限港澳台IP
     - title: 雨中小町
-      logo: /logos/同人音声/rainkmc.com.ico
+      logo: /logos/同人音声/rainkmc.com.png
       url: https://rainkmc.com/forum.php
       description:
     - title: 布璃
@@ -463,7 +463,7 @@
       url: https://boards.4chan.org/h/catalog#s=voice
       description:
     - title: DJT
-      logo: /logos/同人音声/itazuraneko.neocities.org.ico
+      logo: /logos/同人音声/itazuraneko.neocities.org.png
       url: https://itazuraneko.neocities.org/library/onsei/asmr.html
       description:
     - title: ASMR Land
@@ -527,7 +527,7 @@
       url: https://bbs4.2djgame.net/home/forum.php
       description: 抢邀请码
     - title: 天使二次元
-      logo: /logos/Galgame/www.tianshie.com.ico
+      logo: /logos/Galgame/www.tianshie.com.png
       url: https://www.tianshie.com/
       description:
     - title: galgame资源发布站
@@ -543,7 +543,7 @@
       url: https://www.vikacg.com/
       description: 肥宅们的欢乐家园
     - title: 量子ACG
-      logo: /logos/Galgame/lzacg.us.jpeg
+      logo: /logos/Galgame/lzacg.us.jpg
       url: https://lzacg.us/
       description:
     - title: GalGame世界
@@ -595,11 +595,11 @@
       url: https://ascii2d.net/
       description: 适合找gal图/同人图/p站图
     - title: IQDB
-      logo: /logos/在线工具/www.iqdb.org.ico
+      logo: /logos/在线工具/www.iqdb.org.png
       url: https://www.iqdb.org/
       description: 适合找gal图
     - title: Xslist
-      logo: /logos/在线工具/xslist.org.ico
+      logo: /logos/在线工具/xslist.org.png
       url: https://xslist.org/zh
       description: 截图搜索女优
     - title: SteamDB
@@ -619,7 +619,7 @@
       url: https://zh.z-lib.org/
       description: 世界上最大的数字图书馆
     - title: Library Genesis
-      logo: /logos/图书/libgen.is.ico
+      logo: /logos/图书/libgen.is.png
       url: https://libgen.is/
       description:
 
@@ -627,7 +627,7 @@
   icon: fa-magnet
   links:
     - title: qBittorrent Enhanced Edition
-      logo: /logos/BT下载软件/www.qbittorrent.org.ico
+      logo: /logos/BT下载软件/www.qbittorrent.org.png
       url: https://github.com/c0re100/qBittorrent-Enhanced-Edition/releases
       description:
     - title: XIU2/TrackersListCollection
@@ -647,7 +647,7 @@
       url: https://sukebei.nyaa.si/
       description:
     - title: The Pirate Bay
-      logo: /logos/种子搜索/thepirate-bay.org.ico
+      logo: /logos/种子搜索/thepirate-bay.org.png
       url: https://thepirate-bay.org/en
       description: 海盗湾
     - title: RARBG
@@ -663,7 +663,7 @@
       url: https://www.1377x.to/
       description:
     - title: Csze BT
-      logo: /logos/种子搜索/bt.orzx.im.ico
+      logo: /logos/种子搜索/bt.orzx.im.png
       url: https://bt.orzx.im/
       description:
     - title: AniDex
@@ -687,7 +687,7 @@
       url: https://asiansister.com/
       description:
     - title: Cosersets
-      logo: /logos/三次元/Cosplay/www.cosersets.com.ico
+      logo: /logos/三次元/Cosplay/www.cosersets.com.png
       url: https://www.cosersets.com/1/main
       description:
 
@@ -695,7 +695,7 @@
   icon: fa-film
   links:
     - title: Jable
-      logo: /logos/三次元/在线AV/jable.tv.ico
+      logo: /logos/三次元/在线AV/jable.tv.png
       url: https://jable.tv/
       description:
     - title: Mic Mic Doll
@@ -743,7 +743,7 @@
       url: https://javdb.com/
       description:
     - title: JAVTXT
-      logo: /logos/三次元/AV下载 (BT)/javtxt.com.ico
+      logo: /logos/三次元/AV下载 (BT)/javtxt.com.png
       url: https://javtxt.com/
       description: JAV档案馆
     - title: Free Jav BT
